@@ -1,6 +1,6 @@
 import fetch from 'dva/fetch';
 
-export const dva = {
+export const dva = { // test 
   config: {
     onError(err) {
       err.preventDefault();
